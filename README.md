@@ -8,7 +8,7 @@
 
 <h2>Sobre o projeto:</h2>
 
-<p>Uma aplicação web onde é possível que o usuário calcule seu IMC (índice de Massa Corporal) e tenha um feedback em tempo real sobre sua classificação na teleba IMC de acordo com a OMS. O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, métodos de funções, objetos, eventos e lógica de validação com JavaScript puro. </p>
+<p>Uma aplicação web onde é possível que o usuário calcule seu IMC (índice de Massa Corporal) e tenha um feedback em tempo real sobre sua classificação na tabela IMC segundo a OMS (Organização Mundial de Saúde). O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, métodos de funções, objetos, eventos e lógica de validação com JavaScript puro. </p>
 
 <h2 id="projeto">Apresentação do projeto:</h2> 
 
@@ -26,7 +26,7 @@
 
 <h2 id="layout">🔖 Layout:</h2> 
 
-Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode visualizar a paletra de cores do projeto através [DESSE LINK](https://uicolors.app/create). A cor que deu origem a paletra de cores é #8514e1.
+Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode visualizar a paletra de cores do projeto através [DESSE LINK](https://uicolors.app/create). A cor que deu origem a paletra de cores é #8514E1.
 
 <h2 id="elementosprincipais">Elementos principais da página:</h2>
 
@@ -76,7 +76,7 @@ Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode vis
 
 <h3> Badge de conclusão do projeto: </h3> 
 
-<img src="./assets/img/badge_challenge_portfolio.png">
+<img src="/img/badge_challenge_portfolio.png">
 
 <h3 id="contato">Minhas redes e contato: </h3> 
 
