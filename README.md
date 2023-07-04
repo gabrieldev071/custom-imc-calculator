@@ -12,7 +12,7 @@
 
 <h2 id="projeto">Apresentação do projeto:</h2> 
 
-<img src="" alt="demo do projeto tasklist">
+<img src="./img/calculadora-demo.png" alt="demo do projeto custom-imc-calculator">
 
     - Responsivo para tablet e mobile 🔸
 
@@ -68,7 +68,7 @@ Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode vis
 
         - Variáveis no CSS.
         - Reaproveitamenteo do código.
-        - Responsividade
+        - Responsividade (medidaqs relativas e para telas diferentes)
         - Utilização do flexbox.
         - Uso de paleta de cores.
         - Utilização pseudo-elementos e pseudo-classes.
