@@ -22,7 +22,7 @@
 
 <h2>💻 Deploy:</h2>
 
-- Visite o projeto online: [app-takslist](https://gabrieldev071.github.io/custom-imc-calculator/)
+- Visite o projeto online: [custom-imc-calculator](https://gabrieldev071.github.io/custom-imc-calculator/)
 
 <h2 id="layout">🔖 Layout:</h2> 
 
